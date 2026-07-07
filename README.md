@@ -161,6 +161,6 @@ AdventureWorks_Sales_EDA.ipynb
 
 ## Author
 
-**Your Name**
+**FARAZ TAHAMI**
 
 Data Analyst | Python | SQL | Power BI
